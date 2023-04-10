@@ -2,7 +2,7 @@
 
 I am a Front-End developer and looking for a full-time position in a company. Have finished GOIT Full stack course. I'm not afraid of challenges, I like to overcome them 😎. I am experienced in team projects and find a common language with people. I want to develop my skills in a team of like-minded people.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NickDurnev)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NickDurnev&show_icons=true&bg_color=00000000)
 
 <!--
 **NickDurnev/NickDurnev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
