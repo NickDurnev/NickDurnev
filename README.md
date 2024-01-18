@@ -2,6 +2,12 @@
 
 I'm not afraid of challenges, I like to overcome them 😎. I am experienced in team projects and find a common language with people. I want to develop my skills in a team of like-minded people.
 
+### Top Technologies:
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
+[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) 
+[![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) 
+[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) 
+
 <h3 align="left">Code with:</h3>
 <p align="left"> <a href="https://www.w3.org/html/" style="text-decoration: none; border-bottom: none;" target="_blank"> <img src="https://cdn.simpleicons.org/html5/788FBD" alt="html5" width="40" height="40"/></a> 
   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://cdn.simpleicons.org/css3/788FBD" alt="css3" width="40" height="40"/></a> 
@@ -22,25 +28,16 @@ I'm not afraid of challenges, I like to overcome them 😎. I am experienced in 
 <p align="left">
 <a href="https://www.linkedin.com/in/nikita-durnev/" target="blank"><img align="center" src="https://cdn.simpleicons.org/linkedin/788FBD" alt="linkdein" height="40" width="40"/></a>
 <a href="https://t.me/nick_durnev" target="blank"><img align="center" src="https://cdn.simpleicons.org/telegram/788FBD" alt="telegram" height="40" width="40" /></a>
+<a href="mailto:nickdurnev1@gmail.com" target="blank"><img align="center" src="https://cdn.simpleicons.org/gmail/788FBD" alt="telegram" height="40" width="40" /></a>
 </p>
 
-### My Github Stats
+### My Github Stats: 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NickDurnev&show_icons=true&bg_color=00000000&text_color=2f80ed)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NickDurnev&layout=compact&bg_color=00000000&text_color=2f80ed)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--
-**NickDurnev/NickDurnev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+<img alt="Nikita's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=NickDurnev&show_icons=true&bg_color=00000000&text_color=2f80ed"/>
+<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NickDurnev&layout=compact&bg_color=00000000&text_color=2f80ed" height="196" width="400"/>
+</div>
+&nbsp; 
+<div align="center">
+  <img alt="Nikita's GitHub page views count" src="https://u8views.com/api/v1/github/profiles/92080056/views/day-week-month-total-count.svg"/>
+</div>
