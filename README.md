@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm not afraid of challenges, I like to overcome them 😎. I am experienced in team projects and find a common language with people. I want to develop my skills in a team of like-minded people.
+#### I'm coding wizard, doing magic outside of Hogwarts 🧙🏻
 
 ### Top Technologies:
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
