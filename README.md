@@ -32,8 +32,8 @@
 ### My Github Stats: 
 
 <div align="center">
-  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=github-dark&showIcons=false&preferLogin=false&Title=5A59DD&Text=DAD2FF&Ring=DAD2FF">
-    <img  alt="NickDurnev's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/NickDurnev?cardType=level&theme=github-dark&showIcons=false&preferLogin=false&Title=5A59DD&Text=DAD2FF&Ring=DAD2FF" />
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=dark&showIcons=false&preferLogin=false&Title=5A59DD&Text=DAD2FF&Ring=DAD2FF&Background=202830">
+    <img  alt="NickDurnev's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/NickDurnev?cardType=level&theme=dark&showIcons=false&preferLogin=false&Title=5A59DD&Text=DAD2FF&Ring=DAD2FF&Background=202830" />
   </a>
 </div>
 &nbsp; 
