@@ -32,8 +32,9 @@
 ### My Github Stats: 
 
 <div align="center">
-<img alt="Nikita's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=NickDurnev&show_icons=true&bg_color=00000000&text_color=2f80ed"/>
-<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NickDurnev&layout=compact&bg_color=00000000&text_color=2f80ed" height="196" width="400"/>
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&preferLogin=false">
+    <img  alt="NickDurnev's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/NickDurnev?cardType=level&preferLogin=false" />
+  </a>
 </div>
 &nbsp; 
 <div align="center">
