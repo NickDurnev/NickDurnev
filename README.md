@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-#### I'm coding wizard, doing magic outside of Hogwarts 🧙🏻
+#### I'm a coding wizard, doing magic outside of Hogwarts 🧙🏻
 
 ### Top Technologies:
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
@@ -24,7 +24,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/nikita-durnev/" target="blank"><img align="center" src="https://cdn.simpleicons.org/linkedin/788FBD" alt="linkdein" height="40" width="40"/></a>&nbsp; &nbsp; 
+<a href="https://www.linkedin.com/in/nikita-durnev/" target="blank"><img align="center" src="https://banner2.cleanpng.com/20180529/str/avpsm7w6e.webp" alt="linkdein" height="40" width="40"/></a>&nbsp; &nbsp; 
 <a href="https://t.me/nick_durnev" target="blank"><img align="center" src="https://cdn.simpleicons.org/telegram/788FBD" alt="telegram" height="40" width="40" /></a>&nbsp; &nbsp; 
 <a href="mailto:nickdurnev1@gmail.com" target="blank"><img align="center" src="https://cdn.simpleicons.org/gmail/788FBD" alt="telegram" height="40" width="40" /></a>
 </p>
